@@ -1,0 +1,70 @@
+C:\Nikseesht c#\OnlineShop\Model\bin\Debug\net7.0\Model.deps.json
+C:\Nikseesht c#\OnlineShop\Model\bin\Debug\net7.0\Model.dll
+C:\Nikseesht c#\OnlineShop\Model\bin\Debug\net7.0\Model.pdb
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.dll
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.pdb
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\ref\Model.dll
+C:\Nikseesht c#\OnlineShop\Model\bin\Debug\net7.0\Model.runtimeconfig.json
+C:\Nikseesht c#\OnlineShop\Model\obj\Debug\net7.0\Model.genruntimeconfig.cache
+D:\Onlineshop\Model\bin\Debug\net7.0\Model.deps.json
+D:\Onlineshop\Model\bin\Debug\net7.0\Model.runtimeconfig.json
+D:\Onlineshop\Model\bin\Debug\net7.0\Model.dll
+D:\Onlineshop\Model\bin\Debug\net7.0\Model.pdb
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.dll
+D:\Onlineshop\Model\obj\Debug\net7.0\refint\Model.dll
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.pdb
+D:\Onlineshop\Model\obj\Debug\net7.0\Model.genruntimeconfig.cache
+D:\Onlineshop\Model\obj\Debug\net7.0\ref\Model.dll
+E:\Onlineshop\Model\bin\Debug\net7.0\Model.deps.json
+E:\Onlineshop\Model\bin\Debug\net7.0\Model.runtimeconfig.json
+E:\Onlineshop\Model\bin\Debug\net7.0\Model.dll
+E:\Onlineshop\Model\bin\Debug\net7.0\Model.pdb
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.dll
+E:\Onlineshop\Model\obj\Debug\net7.0\refint\Model.dll
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.pdb
+E:\Onlineshop\Model\obj\Debug\net7.0\Model.genruntimeconfig.cache
+E:\Onlineshop\Model\obj\Debug\net7.0\ref\Model.dll
+C:\Onlineshop\Model\bin\Debug\net7.0\Model.deps.json
+C:\Onlineshop\Model\bin\Debug\net7.0\Model.runtimeconfig.json
+C:\Onlineshop\Model\bin\Debug\net7.0\Model.dll
+C:\Onlineshop\Model\bin\Debug\net7.0\Model.pdb
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.dll
+C:\Onlineshop\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.pdb
+C:\Onlineshop\Model\obj\Debug\net7.0\Model.genruntimeconfig.cache
+C:\Onlineshop\Model\obj\Debug\net7.0\ref\Model.dll
+C:\Users\asus\Desktop\Onlineshop\Model\bin\Debug\net7.0\Model.deps.json
+C:\Users\asus\Desktop\Onlineshop\Model\bin\Debug\net7.0\Model.runtimeconfig.json
+C:\Users\asus\Desktop\Onlineshop\Model\bin\Debug\net7.0\Model.dll
+C:\Users\asus\Desktop\Onlineshop\Model\bin\Debug\net7.0\Model.pdb
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.dll
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.pdb
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\Model.genruntimeconfig.cache
+C:\Users\asus\Desktop\Onlineshop\Model\obj\Debug\net7.0\ref\Model.dll

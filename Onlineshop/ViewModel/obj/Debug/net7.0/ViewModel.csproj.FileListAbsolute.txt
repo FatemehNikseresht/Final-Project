@@ -1,0 +1,75 @@
+C:\Nikseesht c#\OnlineShop\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+C:\Nikseesht c#\OnlineShop\ViewModel\bin\Debug\net7.0\ViewModel.dll
+C:\Nikseesht c#\OnlineShop\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.dll
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll
+C:\Nikseesht c#\OnlineShop\ViewModel\bin\Debug\net7.0\Model.dll
+C:\Nikseesht c#\OnlineShop\ViewModel\bin\Debug\net7.0\Model.pdb
+C:\Nikseesht c#\OnlineShop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+D:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+D:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.dll
+D:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+D:\Onlineshop\ViewModel\bin\Debug\net7.0\Model.dll
+D:\Onlineshop\ViewModel\bin\Debug\net7.0\Model.pdb
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.dll
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+D:\Onlineshop\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll
+E:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+E:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.dll
+E:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+E:\Onlineshop\ViewModel\bin\Debug\net7.0\Model.dll
+E:\Onlineshop\ViewModel\bin\Debug\net7.0\Model.pdb
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.dll
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+E:\Onlineshop\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll
+C:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+C:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.dll
+C:\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+C:\Onlineshop\ViewModel\bin\Debug\net7.0\Model.dll
+C:\Onlineshop\ViewModel\bin\Debug\net7.0\Model.pdb
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.dll
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+C:\Onlineshop\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll
+C:\Users\asus\Desktop\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+C:\Users\asus\Desktop\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.dll
+C:\Users\asus\Desktop\Onlineshop\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+C:\Users\asus\Desktop\Onlineshop\ViewModel\bin\Debug\net7.0\Model.dll
+C:\Users\asus\Desktop\Onlineshop\ViewModel\bin\Debug\net7.0\Model.pdb
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.dll
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+C:\Users\asus\Desktop\Onlineshop\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll

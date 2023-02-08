@@ -1,0 +1,320 @@
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\View.exe
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\View.deps.json
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\View.runtimeconfig.json
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\View.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\View.pdb
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\ViewModel.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\ViewModel.pdb
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.csproj.AssemblyReference.cache
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.csproj.GenerateResource.cache
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.AssemblyInfoInputs.cache
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.AssemblyInfo.cs
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.csproj.CopyComplete
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.dll
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\refint\View.dll
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.pdb
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.genruntimeconfig.cache
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\ref\View.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Model.dll
+C:\Nikseesht c#\OnlineShop\View\bin\Debug\net7.0-windows\Model.pdb
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.frmName.resources
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.frmPerson.resources
+C:\Nikseesht c#\OnlineShop\View\obj\Debug\net7.0-windows\View.frmProduct.resources
+D:\Onlineshop\View\bin\Debug\net7.0-windows\View.exe
+D:\Onlineshop\View\bin\Debug\net7.0-windows\View.deps.json
+D:\Onlineshop\View\bin\Debug\net7.0-windows\View.runtimeconfig.json
+D:\Onlineshop\View\bin\Debug\net7.0-windows\View.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\View.pdb
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Model.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.dll
+D:\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.pdb
+D:\Onlineshop\View\bin\Debug\net7.0-windows\Model.pdb
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.AssemblyReference.cache
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmName.resources
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmPerson.resources
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmProduct.resources
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.GenerateResource.cache
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfoInputs.cache
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfo.cs
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CoreCompileInputs.cache
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CopyComplete
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.dll
+D:\Onlineshop\View\obj\Debug\net7.0-windows\refint\View.dll
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.pdb
+D:\Onlineshop\View\obj\Debug\net7.0-windows\View.genruntimeconfig.cache
+D:\Onlineshop\View\obj\Debug\net7.0-windows\ref\View.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\View.exe
+E:\Onlineshop\View\bin\Debug\net7.0-windows\View.deps.json
+E:\Onlineshop\View\bin\Debug\net7.0-windows\View.runtimeconfig.json
+E:\Onlineshop\View\bin\Debug\net7.0-windows\View.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\View.pdb
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Humanizer.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Model.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.dll
+E:\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.pdb
+E:\Onlineshop\View\bin\Debug\net7.0-windows\Model.pdb
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.AssemblyReference.cache
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmName.resources
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmPerson.resources
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmProduct.resources
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.GenerateResource.cache
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfoInputs.cache
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfo.cs
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CoreCompileInputs.cache
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CopyComplete
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.dll
+E:\Onlineshop\View\obj\Debug\net7.0-windows\refint\View.dll
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.pdb
+E:\Onlineshop\View\obj\Debug\net7.0-windows\View.genruntimeconfig.cache
+E:\Onlineshop\View\obj\Debug\net7.0-windows\ref\View.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\View.exe
+C:\Onlineshop\View\bin\Debug\net7.0-windows\View.deps.json
+C:\Onlineshop\View\bin\Debug\net7.0-windows\View.runtimeconfig.json
+C:\Onlineshop\View\bin\Debug\net7.0-windows\View.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\View.pdb
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Model.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.dll
+C:\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.pdb
+C:\Onlineshop\View\bin\Debug\net7.0-windows\Model.pdb
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.AssemblyReference.cache
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmName.resources
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmPerson.resources
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.frmProduct.resources
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.GenerateResource.cache
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfoInputs.cache
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfo.cs
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CopyComplete
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.dll
+C:\Onlineshop\View\obj\Debug\net7.0-windows\refint\View.dll
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.pdb
+C:\Onlineshop\View\obj\Debug\net7.0-windows\View.genruntimeconfig.cache
+C:\Onlineshop\View\obj\Debug\net7.0-windows\ref\View.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\View.exe
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\View.deps.json
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\View.runtimeconfig.json
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\View.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\View.pdb
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Model.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.dll
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\ViewModel.pdb
+C:\Users\asus\Desktop\Onlineshop\View\bin\Debug\net7.0-windows\Model.pdb
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.frmName.resources
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.frmPerson.resources
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.frmProduct.resources
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.AssemblyInfo.cs
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.csproj.CopyComplete
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.dll
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\refint\View.dll
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.pdb
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\View.genruntimeconfig.cache
+C:\Users\asus\Desktop\Onlineshop\View\obj\Debug\net7.0-windows\ref\View.dll
